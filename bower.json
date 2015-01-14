@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/margaretclinard/grunt-test-project",
+  "authors": [
+    "Margaret Clinard <margaret.clinard@gmail.com>"
+  ],
+  "description": "This app is a test of using grunt rather than prepros",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
